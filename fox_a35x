@@ -19,11 +19,8 @@
 #
 
 # OrangeFox settings
-OF_HIDE_NOTCH := 1
 OF_USE_GREEN_LED := 0
 OF_FLASHLIGHT_ENABLE := 1
-OF_ALLOW_DISABLE_NAVBAR := 0
-OF_ENABLE_USB_STORAGE := 1
 OF_IGNORE_LOGICAL_MOUNT_ERRORS := 1
 OF_BIND_MOUNT_SDCARD_ON_FORMAT := 1
 OF_USE_LZMA_COMPRESSION := 1
@@ -34,8 +31,6 @@ OF_SPLASH_MAX_SIZE := 130
 
 # Custom pic for maintainers about section info
 OF_MAINTAINER := Shinn
-
-# OrangeFox GUI settings
 
 # OrangeFox GUI settings
 OF_SCREEN_H := 2280
